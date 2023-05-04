@@ -1,5 +1,5 @@
 # 3D_Reconstruction_twoView_PlaneSweep_DenseRecon
-## This code provides a method and esseential functions such as depth estimation, calculate dispatity, two-view rectification etc. to perform stereo rectification and depth estimation on a pair of images captured by two cameras.
+## This code provides a method and esseential functions such as depth estimation, calculate dispatity, two-view rectification etc. to perform stereo rectification and depth estimation on a pair of images captured by two cameras. This is a course project in Upenn Course CIS 580, dataset is created  by Steve Seitz, James Diebel, Daniel Scharstein, Brian Curless, and Rick Szeliski
 
 ## Dependencies
 1. numpy
