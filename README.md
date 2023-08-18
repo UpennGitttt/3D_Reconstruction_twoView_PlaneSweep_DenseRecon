@@ -14,8 +14,7 @@
 10. open3d
 
 # To install the dependencies, run the following command:
-
-pip install numpy matplotlib os imageio tqdm transforms3d pyrender trimesh cv2 open3d
+# pip install numpy matplotlib os imageio tqdm transforms3d pyrender trimesh cv2 open3d
 
 1. homo_corners: Calculates the minimum and maximum values of the corners after applying a homography to an image.
 
